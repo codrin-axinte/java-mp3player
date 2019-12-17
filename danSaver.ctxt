@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=danSaver
+comment1.params=
+comment1.target=void\ saveSettings()
+comment2.params=
+comment2.target=void\ loadSettings()
+comment3.params=
+comment3.target=boolean\ getMute()
+comment4.params=_mute
+comment4.target=void\ setMute(boolean)
+comment5.params=
+comment5.target=double\ getVolume()
+comment6.params=_volume
+comment6.target=void\ setVolume(double)
+comment7.params=_filepaths\ _filepath
+comment7.target=void\ savePlayList(java.util.ArrayList,\ java.lang.String)
+comment8.params=_filepath
+comment8.target=java.util.ArrayList\ loadPlayList(java.lang.String)
+comment9.params=
+comment9.target=java.util.ArrayList\ getHardCodedPlayList()
+numComments=10

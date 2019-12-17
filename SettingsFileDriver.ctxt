@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SettingsFileDriver
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FileDriver\ here.\r\n\r\n\ @author\ Codrin\ Axinte\r\n\ @version\ 09/12/2019\r\n
+comment1.params=filename\ settings
+comment1.target=void\ save(java.lang.String,\ Settings)
+comment2.params=filename
+comment2.target=Settings\ load(java.lang.String)
+numComments=3

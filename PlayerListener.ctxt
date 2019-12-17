@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PlayerListener
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlayerListener\ here.\r\n\r\n\ @author\ Codrin\ Axinte\r\n\ @version\ 03/12/2019\r\n
+comment1.params=e
+comment1.target=void\ onPlayerUpdated(PlayerEvent)
+numComments=2

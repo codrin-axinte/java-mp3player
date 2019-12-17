@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StringUtil
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StringUtil\ here.\r\n\r\n\ @author\ Codrin\ Axinte\r\n\ @version\ 09/12/2019\r\n
+comment1.params=state
+comment1.target=java.lang.String\ getBoolText(boolean)
+comment2.params=elapsed\ duration
+comment2.target=java.lang.String\ formatTime(javafx.util.Duration,\ javafx.util.Duration)
+numComments=3

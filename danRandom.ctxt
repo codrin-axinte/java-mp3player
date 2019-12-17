@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=danRandom
+comment1.params=
+comment1.target=danRandom()
+comment2.params=_min\ _max
+comment2.target=int\ getRandomInt(int,\ int)
+numComments=3
